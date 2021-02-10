@@ -6,6 +6,9 @@ TagManager:
   tags:
   - Cube
   - PaintCube
+  - FxTemporaire
+  - RedCube
+  - BlueCube
   layers:
   - Default
   - TransparentFX
